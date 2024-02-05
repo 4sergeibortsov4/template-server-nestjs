@@ -1,6 +1,5 @@
 # template-server-nestjs
 <h1 align="center">Hi there, I'm Sergey</a><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<br>
 <h2>Contacts:</h2>
 <a align='center' href="https://t.me/djsbortsov" target="_blank"><img align='center' src="https://cdn-icons-png.flaticon.com/512/5968/5968804.png" height="32"/>Telegram</a>
 <br>
