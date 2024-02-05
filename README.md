@@ -9,7 +9,6 @@
 <a class="margin-icon" align='center' margin-left=10px href="https://github.com/4sergeibortsov4" target="_blank"><img align='center' src="https://cdn.icon-icons.com/icons2/1907/PNG/512/iconfinder-github-4555889_121361.png" height="32"/>GitHub</a>
 <br>
 <h3 align="center">This is a template server for backend your WEB-application on NestJS.<h3/>
-<br>
 <ol align='left'> The template contains the following modules: 
   <li>Database, connection to it and interaction with it.</li>
 </ol>
