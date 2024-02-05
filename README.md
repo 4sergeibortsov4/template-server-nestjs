@@ -5,6 +5,6 @@
   
 <h2 align="center">This is a template server for backend your WEB-application on NestJS.
 
-<ol> The template contains the following modules: 
+<ol align='left'> The template contains the following modules: 
   <li>Database, connection to it and interaction with it.</li>
 </ol>
